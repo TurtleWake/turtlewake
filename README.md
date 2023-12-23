@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean Davis</h1>
-<h3 align="center">A passionate froExploring the Depths of Code: A Scuba Diver's Journey into the World of Programmingntend developer from India</h3>
+<h3 align="center">Exploring the Depths of Code: A Scuba Diver's Journey into the World of Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlewake&label=Profile%20views&color=0e75b6&style=flat" alt="turtlewake" /> </p>
 
